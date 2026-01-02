@@ -1,25 +1,10 @@
-# 👋 Hi, I'm yeahhe365
+### 📊 My GitHub Stats
 
-### 🚀 About Me
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 💬 Ask me about ...
-
----
-
-### 🛠 Languages & Tools
-<!-- 这里是你的语言统计卡片 -->
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeahhe365&layout=compact&theme=vision-friendly-dark" alt="yeahhe365's Top Langs" />
+<p align="center">
+  <img src="https://metrics.lecoq.io/yeahhe365?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.sections=most-used&languages.details=percentage&config.timezone=Asia%2FShanghai" />
 </p>
 
-### 📊 GitHub Stats
-<!-- 这里是你的总体数据卡片 -->
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yeahhe365&show_icons=true&theme=vision-friendly-dark&hide_border=false" alt="yeahhe365's GitHub Stats" />
+### 🔥 My Streak Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yeahhe365&theme=dark" />
 </p>
-
----
-
-### 🏆 Achievements
-<!-- 这一块 GitHub 会根据你的成就自动显示在侧边栏，不需要在这里手动写代码 -->
