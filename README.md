@@ -1,17 +1,5 @@
-### 👋 Hi, I'm yeahhe365
+[![trophy](https://github-profile-trophy.vercel.app/?username=yeahhe365)](https://github.com/ryo-ma/github-profile-trophy)
 
-🌱 I'm currently learning ... (在这里写你的介绍)
+![Total Stars](https://img.shields.io/badge/dynamic/json?color=orange&label=Total%20Stars&query=stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Fyeahhe365&style=flat-square&logo=github)
 
-### 📈 Languages & Stats
 
-<div align="center">
-  <!-- 常用语言卡片 -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeahhe365&layout=compact&theme=default" alt="Top Langs" />
-</div>
-
-<br/>
-
-<div align="center">
-  <!-- GitHub 统计数据卡片 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=yeahhe365&show_icons=true&theme=default" alt="GitHub Stats" />
-</div>
