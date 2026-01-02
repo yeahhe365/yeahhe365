@@ -1,10 +1,17 @@
-### 📊 My GitHub Stats
+### 👋 Hi, I'm yeahhe365
 
-<p align="center">
-  <img src="https://metrics.lecoq.io/yeahhe365?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.sections=most-used&languages.details=percentage&config.timezone=Asia%2FShanghai" />
-</p>
+🌱 I'm currently learning ... (在这里写你的介绍)
 
-### 🔥 My Streak Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yeahhe365&theme=dark" />
-</p>
+### 📈 Languages & Stats
+
+<div align="center">
+  <!-- 常用语言卡片 -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeahhe365&layout=compact&theme=default" alt="Top Langs" />
+</div>
+
+<br/>
+
+<div align="center">
+  <!-- GitHub 统计数据卡片 -->
+  <img src="https://github-readme-stats.vercel.app/api?username=yeahhe365&show_icons=true&theme=default" alt="GitHub Stats" />
+</div>
