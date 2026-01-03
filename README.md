@@ -1,8 +1,6 @@
 <div align="center">
 
-  <!-- 1. 动态打字机 (已加宽到 600px，确保文字完整显示) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=600&lines=Hi+there!+I'm+yeahhe365;A+Passionate+Developer;Open+Source+Enthusiast;" alt="Typing SVG" />
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=600&lines=Hi+there!+I'm+yeahhe365;A+Passionate+Developer;Open+Source+Enthusiast;&height=30" alt="Typing SVG" />
   <br/><br/>
 
   <!-- 2. 徽章与按钮 (统一风格，清晰易读) -->
