@@ -36,9 +36,5 @@
 
   <br/>
 
-  <!-- 5. 活跃度图表 (改为亮色主题，线条使用青色，背景透明) -->
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=yeahhe365&bg_color=ffffff&color=36BCF7&line=36BCF7&point=36BCF7&area=true&hide_border=true" width="850" alt="Activity Graph" />
-  </a>
 
 </div>
