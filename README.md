@@ -1,7 +1,4 @@
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=600&lines=Hi+there!+I'm+yeahhe365;A+Passionate+Developer;Open+Source+Enthusiast;&height=30" alt="Typing SVG" />
-  <br/><br/>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=240&section=header&text=HELLO&fontSize=90&fontAlign=50&fontAlignY=30&desc=I'm%20yeahhe&descAlign=50&descSize=30&descAlignY=60&animation=twinkling)
 
   <!-- 2. 徽章与按钮 (统一风格，清晰易读) -->
   <p>
