@@ -1,37 +1,27 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=240&section=header&text=HELLO&fontSize=90&fontAlign=50&fontAlignY=30&desc=I'm%20yeahhe&descAlign=50&descSize=30&descAlignY=60&animation=twinkling)
+<div align="center">
 
-  <!-- 2. 徽章与按钮 (统一风格，清晰易读) -->
+  <!-- 1. Header (保留你指定的动态渐变头图) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=240&section=header&text=HELLO&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%27m%20yeahhe&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" width="100%" alt="Header" />
+  
+  <br/><br/>
+
+  <!-- 2. Badges (Flat 样式，清爽色调) -->
   <p>
-    <img src="https://img.shields.io/badge/dynamic/json?color=orange&label=Total%20Stars&query=stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Fyeahhe365&style=flat-square&logo=github" alt="Stars">
+    <img src="https://img.shields.io/badge/dynamic/json?color=4A90E2&label=Total%20Stars&query=stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Fyeahhe365&style=flat-square&logo=github" alt="Stars">
     &nbsp;
     <a href="https://afdian.com/a/gemini-nexus">
-      <img src="https://img.shields.io/badge/Sponsor-Buy%20Me%20A%20Coffee-orange?style=flat-square&logo=buy-me-a-coffee&logoColor=white" alt="Sponsor">
+      <img src="https://img.shields.io/badge/Sponsor-Buy%20Me%20Coffee-F6AD55?style=flat-square&logo=buy-me-a-coffee&logoColor=white" alt="Sponsor">
     </a>
   </p>
-
+  
   <br/>
 
-  <!-- 3. 奖杯 (使用 flat 主题，色彩饱和度高，文字清晰) -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=yeahhe365&theme=flat&no-bg=true&column=7&margin-w=15" alt="trophy" />
+  <!-- 3. Stats (Catppuccin Latte 极简浅色主题，去除表格以适配手机端) -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=yeahhe365&show_icons=true&theme=catppuccin_latte&hide_border=true&rank_icon=github&bg_color=ffffff" height="165" alt="Stats" />
   </a>
-
-  <br/>
-
-  <!-- 4. 核心数据 (左右并排布局) -->
-  <!-- 使用 buefy 主题：白底蓝字，对比度极高，专治看不清 -->
-  <table align="center" style="border: none;">
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=yeahhe365&show_icons=true&theme=buefy&hide_border=true&rank_icon=github" height="180" alt="Stats" />
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yeahhe365&layout=compact&theme=buefy&hide_border=true&langs_count=6" height="180" alt="Languages" />
-      </td>
-    </tr>
-  </table>
-
-  <br/>
-
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yeahhe365&layout=compact&theme=catppuccin_latte&hide_border=true&langs_count=6&bg_color=ffffff" height="165" alt="Languages" />
+  </a>
 
 </div>
