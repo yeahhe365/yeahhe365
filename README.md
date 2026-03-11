@@ -7,7 +7,7 @@
 
   <!-- 2. Badges (Flat 样式，清爽色调) -->
   <p>
-    <img src="https://img.shields.io/badge/dynamic/json?color=4A90E2&label=Total%20Stars&query=stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Fyeahhe365&style=flat-square&logo=github" alt="Stars">
+    <img src="https://img.shields.io/github/stars/yeahhe365?style=flat-square&logo=github&color=4A90E2" alt="Stars">
     &nbsp;
     <a href="https://afdian.com/a/gemini-nexus">
       <img src="https://img.shields.io/badge/Sponsor-Buy%20Me%20Coffee-F6AD55?style=flat-square&logo=buy-me-a-coffee&logoColor=white" alt="Sponsor">
