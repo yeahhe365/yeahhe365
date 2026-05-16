@@ -15,7 +15,7 @@
 </a>
 &nbsp;
 <a href="https://linux.do/u/yeahhe/summary">
-  <img alt="yeahhe | Linux.do" src="https://img.shields.io/badge/Linux.do-yeahhe-00A0E9?style=flat-square" />
+  <img alt="yeahhe | Linux.do" width="22px" src="./assets/linuxdo.svg" />
 </a>
 &nbsp;
 <a href="https://afdian.com/a/gemini-nexus">
