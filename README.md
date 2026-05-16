@@ -8,7 +8,7 @@
 
 ### Hi there, I'm [yeahhe](https://github.com/yeahhe365)! 👋
 
-![](https://visitor-badge.laobi.icu/badge?page_id=yeahhe365.readme)
+![](https://visitor-badge.laobi.icu/badge?page_id=yeahhe365.readme&left_text=Visitors)
 
 <a href="https://github.com/yeahhe365">
   <img alt="yeahhe365 | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg" />
