@@ -1,27 +1,37 @@
-<div align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="right" width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=yeahhe365&show_icons=true&include_all_commits=true&theme=radical&hide_border=true&rank_icon=github" alt="yeahhe365's GitHub stats" />
+</a>
 
-  <!-- 1. Header (保留你指定的动态渐变头图) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=240&section=header&text=HELLO&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%27m%20yeahhe&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" width="100%" alt="Header" />
-  
-  <br/><br/>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="right" width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yeahhe365&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="yeahhe365's top languages" />
+</a>
 
-  <!-- 2. Badges (Flat 样式，清爽色调) -->
-  <p>
-    <img src="https://img.shields.io/github/stars/yeahhe365?style=flat-square&logo=github&color=4A90E2" alt="Stars">
-    &nbsp;
-    <a href="https://afdian.com/a/gemini-nexus">
-      <img src="https://img.shields.io/badge/Sponsor-Buy%20Me%20Coffee-F6AD55?style=flat-square&logo=buy-me-a-coffee&logoColor=white" alt="Sponsor">
-    </a>
-  </p>
-  
-  <br/>
+### Hi there, I'm [yeahhe](https://github.com/yeahhe365)! 👋
 
-  <!-- 3. Stats (Catppuccin Latte 极简浅色主题，去除表格以适配手机端) -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=yeahhe365&show_icons=true&theme=catppuccin_latte&hide_border=true&rank_icon=github&bg_color=ffffff" height="165" alt="Stats" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yeahhe365&layout=compact&theme=catppuccin_latte&hide_border=true&langs_count=6&bg_color=ffffff" height="165" alt="Languages" />
-  </a>
+![](https://visitor-badge.laobi.icu/badge?page_id=yeahhe365.readme)
 
-</div>
+<a href="https://github.com/yeahhe365">
+  <img alt="yeahhe365 | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg" />
+</a>
+&nbsp;
+<a href="https://afdian.com/a/gemini-nexus">
+  <img alt="yeahhe365 | Sponsor" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/buymeacoffee.svg" />
+</a>
+
+<br />
+<br />
+
+**Languages and Tools:**
+
+<code><img height="20" alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
+<code><img height="20" alt="TypeScript" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png"></code>
+<code><img height="20" alt="Python" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
+<code><img height="20" alt="Node.js" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"></code>
+<code><img height="20" alt="React" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png"></code>
+<code><img height="20" alt="Vue" src="https://raw.githubusercontent.com/github/explore/main/topics/vue/vue.png"></code>
+<code><img height="20" alt="Docker" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png"></code>
+
+<br />
+<br />
+
+Focused on AI tools, web apps, and practical automation.
